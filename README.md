@@ -21,9 +21,9 @@ brew upgrade ZainCheung/tap/ploy
 ploy runner restart
 ```
 
-The current `v0.1.0` formula is pinned to the one-time bootstrap asset. Future
-workflow-driven releases start at `v0.1.1` (or later) and must be published and
-checksum-verified before the formula is changed.
+The earlier `v0.1.0` formula was pinned to the one-time bootstrap asset. The
+current formula is `v0.1.1`, published by the trusted source workflow. Future
+releases must be published and checksum-verified before the formula is changed.
 
 The formula only installs the Node runtime dependency and Ploy CLI. It never
 installs or changes Xcode, signing identities, certificates, or provisioning
