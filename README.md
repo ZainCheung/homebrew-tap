@@ -22,7 +22,7 @@ ploy runner restart
 ```
 
 The earlier `v0.1.0` formula was pinned to the one-time bootstrap asset. The
-current formula is `v0.1.1`, published by the trusted source workflow. Future
+current formula is `v0.1.2`, published by the trusted source workflow. Future
 releases must be published and checksum-verified before the formula is changed.
 
 The formula only installs the Node runtime dependency and Ploy CLI. It never
