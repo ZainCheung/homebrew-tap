@@ -1,8 +1,8 @@
 # Ploy Homebrew tap
 
 This tap publishes the signed-off macOS Agent bundle for
-[Ploy](https://github.com/ZainCheung/ploy). The formula is metadata only; the
-release artifact is hosted by the release-only
+[Ploy](https://github.com/ZainCheung/ploy-cli). The formula is metadata only;
+the release artifact is hosted by the release-only
 [`ZainCheung/ploy-cli`](https://github.com/ZainCheung/ploy-cli) repository.
 
 Install the released Agent on a clean Mac with one command:
