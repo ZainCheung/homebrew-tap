@@ -1,9 +1,9 @@
 class Ploy < Formula
   desc "First-party macOS runner for Ploy local iOS preview builds"
   homepage "https://github.com/ZainCheung/ploy-cli"
-  version "0.2.1"
+  version "0.3.0"
   url "https://github.com/ZainCheung/ploy-cli/releases/download/v#{version}/ploy-agent-#{version}.tar.gz"
-  sha256 "8a141b104da1e91cb6ab872b48d7bb2239c06546a61a723db40625a28b5ed6c8"
+  sha256 "c9ef3253b5c277f4a64146676dafe3634f0b47e1ca4baf1fdb4dd063decb6dd0"
 
   depends_on "node@22"
 
